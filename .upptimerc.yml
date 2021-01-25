@@ -34,5 +34,5 @@ sites:
     url: https://desu.jojoxd.nl/bakabot
 
 workflowSchedule:
-  graphs: "10,40 * * * *"
-  responseTime: "0,30 * * * *"
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
