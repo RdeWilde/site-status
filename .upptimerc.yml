@@ -22,6 +22,10 @@ sites:
     url: https://jojoxd.nl
     maxResponseTime: 750
   
+  - name: gitlab.jojox.nl
+    url: https://gitlab.jojoxd.nl
+    maxResponseTime: 5000
+  
   - name: Desu
     url: https://desu.jojoxd.nl
     maxResponseTime: 750
