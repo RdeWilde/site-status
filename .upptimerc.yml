@@ -22,7 +22,7 @@ sites:
     url: https://jojoxd.nl
     maxResponseTime: 750
   
-  - name: gitlab.jojox.nl
+  - name: gitlab.jojoxd.nl
     url: https://gitlab.jojoxd.nl
     maxResponseTime: 5000
   
