@@ -37,6 +37,9 @@ sites:
   - name: BakaBot
     url: https://desu.jojoxd.nl/bakabot
 
+  - name: Email (Webmail)
+    url: https://mail.jojoxd.nl
+
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
