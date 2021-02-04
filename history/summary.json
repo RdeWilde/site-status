@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 430,
+    "timeDay": 433,
     "timeWeek": 443,
     "timeMonth": 438,
     "timeYear": 438,
@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.jojoxd.nl",
     "slug": "gitlab-jojoxd-nl",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 801,
-    "timeDay": 788,
-    "timeWeek": 775,
-    "timeMonth": 801,
-    "timeYear": 801,
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 798,
+    "timeDay": 775,
+    "timeWeek": 774,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2021-02-04": 10,
       "2021-01-29": 29
     }
   },
@@ -49,11 +48,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 423,
-    "timeDay": 408,
+    "time": 424,
+    "timeDay": 406,
     "timeWeek": 424,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2021-01-29": 29
     }
@@ -64,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/desu.jojoxd.nl",
     "slug": "anime-rss-filter-v2",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 120,
     "timeDay": 110,
     "timeWeek": 113,
@@ -97,5 +96,23 @@
     "dailyMinutesDown": {
       "2021-01-29": 28
     }
+  },
+  {
+    "name": "Email (Webmail)",
+    "url": "https://mail.jojoxd.nl",
+    "icon": "https://favicons.githubusercontent.com/mail.jojoxd.nl",
+    "slug": "email-webmail",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 600,
+    "timeDay": 600,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
+    "dailyMinutesDown": {}
   }
 ]
