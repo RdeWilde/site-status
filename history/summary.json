@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 468,
+    "time": 435,
+    "timeDay": 466,
     "timeWeek": 433,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.jojoxd.nl",
     "slug": "gitlab-jojoxd-nl",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.51%",
     "uptimeDay": "98.80%",
     "uptimeWeek": "86.97%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "94.34%",
-    "time": 739,
-    "timeDay": 742,
-    "timeWeek": 692,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "uptimeMonth": "94.51%",
+    "uptimeYear": "94.51%",
+    "time": 745,
+    "timeDay": 851,
+    "timeWeek": 705,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2021-02-11": 17,
       "2021-02-08": 969,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 423,
-    "timeDay": 466,
-    "timeWeek": 424,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 424,
+    "timeDay": 455,
+    "timeWeek": 426,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2021-01-29": 29
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 114,
+    "time": 113,
     "timeDay": 102,
     "timeWeek": 108,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2021-01-29": 28
     }
@@ -92,8 +92,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 115,
-    "timeDay": 104,
-    "timeWeek": 109,
+    "timeDay": 103,
+    "timeWeek": 108,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -105,17 +105,19 @@
     "url": "https://mail.jojoxd.nl",
     "icon": "https://favicons.githubusercontent.com/mail.jojoxd.nl",
     "slug": "email-webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 642,
-    "timeWeek": 685,
-    "timeMonth": 688,
-    "timeYear": 688,
-    "dailyMinutesDown": {}
+    "time": 686,
+    "timeDay": 637,
+    "timeWeek": 681,
+    "timeMonth": 686,
+    "timeYear": 686,
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   }
 ]
